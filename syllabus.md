@@ -9,7 +9,8 @@
 ## Course Overview
 This pilot equips learners with the technical and collaborative skills to design, build, and deploy secure applied NLP systems. Students progress from foundational Python and data science into advanced NLP, Retrieval-Augmented Generation (RAG), and Knowledge Graphs (KG), culminating in a capstone solving domain-relevant problems.
 
-Learning follows the **LevelUp Build Cycle**: cycles of doing, reflecting, adjusting, and building with progressive complexity:contentReference[oaicite:4]{index=4}.
+Learning follows the **LevelUp Build Cycle**: cycles of doing, reflecting, adjusting, and building with progressive complexity. Reference:  [LevelUp Build Cycle]([https://docs.google.com/document/d/YOUR-DOC-ID-HERE/edit?usp=sharing](https://docs.google.com/document/d/1AggBmYIM9Qh8JocfVxU_vucRujjdBxNiXXrqoBqE7PI/edit?usp=sharing))
+
 
 ---
 
@@ -96,7 +97,7 @@ Graduates will be able to:contentReference[oaicite:5]{index=5}:
 
 ---
 
-## Weekly Assignment Structure:contentReference[oaicite:6]{index=6}
+## Weekly Assignment Structure
 Each week includes:
 - **Core Skills Drill** (15–25 min, completion graded)
 - **Applied Lab** (1.5–2 hrs, unit tests + rubric)
