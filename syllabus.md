@@ -1,4 +1,4 @@
-# Python for AI – FSF Pilot Program
+# Course Syllabus
 
 **Dates & Duration:** TBD  
 **Delivery Mode:** Hybrid (CPU-friendly)  
