@@ -132,3 +132,7 @@ Capstone grading:
 - **TAs:** Daily support, first-pass grading, GitHub triage, Q&A
 
 ---
+
+
+## Demo sync
+
