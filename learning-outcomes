@@ -1,0 +1,48 @@
+# Learning Outcomes – Pilot Program
+
+By the end of the Pilot, learners will be able to:
+
+---
+
+## Foundations & Collaboration
+1. Set up reproducible Python environments using conda/Poetry.  
+2. Collaborate with Git branching workflows in team projects.  
+3. Use JupyterLab for prototyping and VS Code for production coding.  
+
+---
+
+## Data Science & Core ML
+4. Apply NumPy, Pandas, and Matplotlib for data wrangling and visualization.  
+5. Build and test simple models with PyTorch or TensorFlow.  
+6. Write modular, testable, and reproducible AI code.  
+
+---
+
+## NLP Skills
+7. Preprocess multilingual text, perform tokenization, Named Entity Recognition (NER), and sentence segmentation using spaCy/Hugging Face.  
+8. Generate and compare embeddings (word2vec, fastText, GloVe, BERT/SBERT).  
+9. Fine-tune Transformer models (BERT, RoBERTa, GPT-family) for classification, sentiment analysis, question answering, or summarization tasks.  
+
+---
+
+## Knowledge-Driven NLP & RAG
+10. Implement Retrieval-Augmented Generation (RAG) pipelines using dense, sparse, and hybrid retrieval strategies with Weaviate.  
+11. Integrate retrieval with generative models to produce grounded outputs.  
+12. Construct and reason over Knowledge Graphs (KGs), applying entity linking and KG completion.  
+13. Use Graph Neural Networks (GNNs) to enhance KG reasoning.  
+
+---
+
+## Semantic Web & Integration
+14. Stand up a triple store (e.g., Blazegraph, Fuseki) and query it using SPARQL.  
+15. Link unstructured NLP outputs to ontologies for entity disambiguation.  
+16. Build semantic search workflows combining NLP outputs with KG lookups.  
+
+---
+
+## Deployment & Evaluation
+17. Wrap NLP, KG, and RAG systems into a secure FastAPI backend with a lightweight Next.js frontend.  
+18. Containerize services with Docker and orchestrate with Docker Compose (Kubernetes optional).  
+19. Monitor deployed services for latency, error rates, and answer quality.  
+20. Implement automated evaluation pipelines for NLP and KG outputs.  
+21. Deliver a team-based capstone project demonstrating an end-to-end applied NLP, RAG, and KG system in a secure deployment context.  
